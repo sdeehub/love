@@ -16,4 +16,4 @@ comments: true
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/OtB5-d1BfdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<br />บอกรักกัน ทุกวัน ทุกคืน ทุกเวลา แถมมีปูลมตัวเล็กๆ คอยๆ โผล่ขึ้นมาแอบส่งยิ้ม ตอนได้ยินกระซิบว่า <i class="fa fa-heart" style="color:#C38FD6"></i> "I do."
+<br />บอกรักกัน ทุกวัน ทุกคืน ทุกเวลา แถมมีปูลมตัวเล็กๆ คอยๆ โผล่ แอบๆ ขึ้นมาส่งยิ้ม ตอนได้ยินกระซิบว่า <i class="fa fa-heart" style="color:#C38FD6"></i> "I do."
