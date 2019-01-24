@@ -11,3 +11,5 @@ title: About
 - ความเกลียดเกิดจากความรัก
 - ความรักเกิดจากความเกลียด
 - ความเกลียดเกิดจากความเกลียด
+
+> You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You, yourself, as much as anybody in the entire universe, deserve your love and affection. ~ Buddha
