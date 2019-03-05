@@ -2,7 +2,8 @@
 layout: post
 title: "ใครคือคนๆ นั้น"
 date: 2019-03-05 15:38:38 +0700
-tags: Book of Love
+tags:
+  - Book of Love
 description: ถึงยุคสมัยจะเปลี่ยนไป แต่ความรักที่ต้องเลือก ก็ยังเกิดขึ้นได้ ไม่เคยเปลี่ยนแปลง
 comments: true
 ---
