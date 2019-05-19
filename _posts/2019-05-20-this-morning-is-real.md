@@ -14,7 +14,7 @@ comments: true
 เมื่อเสียงร้องมีความหมายอะไรบางอย่างที่สำคัญและน่ายินดีที่สุด - นานมาแล้ว ใครจะรู้ว่าการพบกัน นั่นจะหมายถึง การเดินทาง การร่วมทาง หรือแม้แต่สวนทาง จะยังไงก็ตาม ถึงยังไงก็แล้วแต่ ที่แน่ๆ จากนี้ไป คำว่า 'ความรัก'
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/atfsD6CjS80?list=PLp-ZAI3S7Nw0IMM92hrekE5AhNOlGBGz6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/UkCkWXRNqds" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
 <br />
