@@ -27,4 +27,4 @@ comments: true
 </div>
 <br />
 
-คิดถึงนะ <i class="fa fa-heart" style="color:#C38FD6"></i> คิดถึงมากจริงๆ ทุกวัน
+คิดถึงนะ <i class="fa fa-heart" style="color:#C38FD6"></i> (คิดถึงมากจริงๆ) แล้วก็ยิ่งมากขึ้นทุกๆ วัน
