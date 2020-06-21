@@ -12,7 +12,7 @@ title: About
 - ความรักเกิดจากความเกลียด
 - ความเกลียดเกิดจากความเกลียด
 
-จาก 4 กลายเป็นร้อยพันล้านของการค้นหา แล้ว 'ความรัก' ที่ว่าของผู้คนสามัญธรรมดาอย่างเราๆ นั้นคืออะไรกัน?
+จาก 4 กลายเป็นร้อยพันล้านของการค้นหา แล้ว 'ความรัก' ที่ว่าของผู้คนสามัญธรรมดาอย่างเรา ๆ นั้นคืออะไรกัน?
 
 > You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You, yourself, as much as anybody in the entire universe, deserve your love and affection. ~ Buddha
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ใครคือคนๆ นั้น"
+title: "ใครคือคน ๆ นั้น"
 date: 2019-03-05 15:38:38 +0700
 tags:
   - Book of Love
